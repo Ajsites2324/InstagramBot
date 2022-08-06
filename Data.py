@@ -13,7 +13,9 @@ You can also authorize me to download private posts.
 
 Use below buttons to learn more.
 
-By @StarkBots
+By @PAPA_BOL_SAKTEHO 
+┏❖ Feelings 
+┗ ☞ @ABOUT_AJEET
     """
 
     # Home Button
@@ -23,12 +25,12 @@ By @StarkBots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/ajeet_bots")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/ajeet_bots")],
     ]
 
     # Help Message
@@ -38,7 +40,7 @@ Send the link here to get the post contents including caption.
 
 2) **Profile Pictures**
 Use the command `/profile_pic` or `/dp` along with instagram username to get its profile picture.
-Example : `/dp StarkProgrammer`
+Example : `/dp ajeet_gond_24`
 
 3) **Private Posts**
 Authorize the bot to download private posts. Use /auth
@@ -52,13 +54,15 @@ Use /auth to authorize and /unauth to unauthorize.
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to download instagram content by @StarkBots
+A telegram bot to download instagram content by @About_AJeet
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/InstagramBot)
+Source Code : [Click Here](https://t.me/papa_bol_sakteho)
+
+More Bots : [Click Here](https://t.me/ajeet_bots)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : [𓆩〭⃛〬𓆩〭⃛〬➤⃝✖‿✖•Ajͥeeͣtͫ](https://t.me/papa_bol_sakteho)
     """
